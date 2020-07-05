@@ -13,7 +13,7 @@ https://github.com/EvALLTEAM/CEM-Ord
 
 # EvALLToolkit features
 
-If you are looking for the complete evaluation library EvALLToolkit, please check again by the the end of 2020 and follow us in Twitter (@EvALL_TEAM) to keep informed about news, release of code, a much more. Notice that EvALL include, between others, the following evaluation tasks and measures:
+If you are looking for the complete evaluation library EvALLToolkit, please check again by the the end of 2020 and follow us in [**Twitter (@EvALL_TEAM)**](https://twitter.com/evall_team) to keep informed about news, release of code, a much more. Notice that EvALL include, between others, the following evaluation tasks and measures:
 
 * **Classification**: Accuracy, System Precision, Utility, Lam, Precision, Recall, Macro Average Accuracy, F Measure, Cohen's Kappa, Mutual Information, Reliability, Sensitivity, F Measure(R, S).
 * **Ranking**: Mean Average Precision, Precision at K, R Precision, Main Reciprocral Rank, Discounted Cumulative Gain, Normalized Discounted Cumulative Gain, Expected Reciprocal Rank, Rank Biased Precision.
