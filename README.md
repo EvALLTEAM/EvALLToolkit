@@ -15,10 +15,10 @@ https://github.com/EvALLTEAM/CEM-Ord
 
 If you are looking for the complete evaluation library EvALLToolkit, please check again by the the end of 2020 and follow us in Twitter (@EvALL_TEAM) to keep informed about news, release of code, a much more. Notice that EvALL include, between others, the following evaluation tasks and measures:
 
-•	Classification: Accuracy, System Precision, Utility, Lam, Precision, Recall, Macro Average Accuracy, F Measure, Cohen's Kappa, Mutual Information, Reliability, Sensitivity, F Measure(R, S).
-•	Ranking: Mean Average Precision, Precision at K, R Precision, Main Reciprocral Rank, Discounted Cumulative Gain, Normalized Discounted Cumulative Gain, Expected Reciprocal Rank, Rank Biased Precision.
-•	Clustering: Purity, Inverse Purity, F Measure (P, I), Rand Statistics, Jaccard, Folkes and Mallows, Normalized Mutual Information, Reliability, Sensitivity, Entropy, Class Entropy, Variation of Information.
-•	Diversification: IA Precision at K, IA Main Reciprocral Rank, IA Mean Average Precision, IA Discounted Cumulative Gain, IA Normalized Discounted Cumulative Gain, IA Expected Reciprocal Rank, IA Rank Biased Precision, Rank Bias Utility.
-•	Ordinal Classification: Mean Absolute Error, Root Mean Squared Error, Macro averaged Mean Absolute Error, CEM Ordinal.
+* **Classification**: Accuracy, System Precision, Utility, Lam, Precision, Recall, Macro Average Accuracy, F Measure, Cohen's Kappa, Mutual Information, Reliability, Sensitivity, F Measure(R, S).
+* **Ranking**: Mean Average Precision, Precision at K, R Precision, Main Reciprocral Rank, Discounted Cumulative Gain, Normalized Discounted Cumulative Gain, Expected Reciprocal Rank, Rank Biased Precision.
+* **Clustering**: Purity, Inverse Purity, F Measure (P, I), Rand Statistics, Jaccard, Folkes and Mallows, Normalized Mutual Information, Reliability, Sensitivity, Entropy, Class Entropy, Variation of Information.
+* **Diversification**: IA Precision at K, IA Main Reciprocral Rank, IA Mean Average Precision, IA Discounted Cumulative Gain, IA Normalized Discounted Cumulative Gain, IA Expected Reciprocal Rank, IA Rank Biased Precision, Rank Bias Utility.
+* **Ordinal Classification**: Mean Absolute Error, Root Mean Squared Error, Macro averaged Mean Absolute Error, CEM Ordinal.
 
 EvALLToolkit also generate automatic latex and pdf reports (that includes measures descriptions, reference, statistical test, detailed errors detection, etc) as well as detailed tsv reports.
