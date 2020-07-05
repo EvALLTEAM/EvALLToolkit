@@ -4,7 +4,8 @@ This repository contains the EvALLToolkit library used in the Online Evaluation 
 # CEM-Ord executable jar file
 If you find this link following the reference in the paper
 
-	“An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results. Enrique Amigó, Julio Gonzalo, Stefano Mizzaro, Jorge Carrillo-de-Albornoz. In proceedings of ACL'20” 
+	“An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results.
+	Enrique Amigó, Julio Gonzalo, Stefano Mizzaro, Jorge Carrillo-de-Albornoz. In proceedings of ACL'20” 
 	
 and you are looking for the CEM-Ord script, please follow this link: 
 
