@@ -3,6 +3,7 @@ This repository contains the EvALLToolkit library used in the Online Evaluation 
 
 # CEM-Ord executable jar file
 If you find this link following the reference in the paper
+
 	“An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results. Enrique Amigó, Julio Gonzalo, Stefano Mizzaro, Jorge Carrillo-de-Albornoz. In proceedings of ACL'20” 
 	
 and you are looking for the CEM-Ord script, please follow this link: 
@@ -20,7 +21,3 @@ If you are looking for the complete evaluation library EvALLToolkit, please chec
 •	Ordinal Classification: Mean Absolute Error, Root Mean Squared Error, Macro averaged Mean Absolute Error, CEM Ordinal.
 
 EvALLToolkit also generate automatic latex and pdf reports (that includes measures descriptions, reference, statistical test, detailed errors detection, etc) as well as detailed tsv reports.
-
-
-
-
